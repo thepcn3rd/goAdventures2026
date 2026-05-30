@@ -1,0 +1,4 @@
+"object","object_type","notes","source"
+"4.5.6.0/24","ipv4CIDR","Note1","Source1"
+"4.5.7.5","ipv4","Note2","Source2"
+"fd12:3456:789a:1b2c:d3e4:f5a6:7b8c:9d0e","ipv6","Note3","Source3"
