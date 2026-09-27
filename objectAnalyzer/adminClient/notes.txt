@@ -1,0 +1,3 @@
+My thoughts are here, this will have access to coreServer configurations and the ability to change API keys and how they are used...
+
+This is the component that is scheduled to move items from the pending_imports to the other desired tables.
