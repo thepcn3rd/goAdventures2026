@@ -1,0 +1,10 @@
+{
+    "hostname": "localhost",
+    "port": 9000,
+    "dbPath": "../data/threatintel.sqlite",
+    "tlsConfig": "keys/tlsconfig.json",
+    "tlsCert": "keys/tls.crt",
+    "tlsKey": "keys/tls.key",
+    "apiKey": "testingtheapikey",
+    "debug": false
+}

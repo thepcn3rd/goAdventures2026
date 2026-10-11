@@ -1,0 +1,12 @@
+{
+	"os": "mac",
+	"_os_options": "mac, win, android, cros (Chrome OS), linux",
+	"arch": "x86-64",
+	"prod": "chromium",
+	"_prod_options": "chrome, chromecrx, chromiumcrx, and unknown",
+	"prodchannel": "unknown",
+	"useragent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+	"prodversion": "120.0.0",
+       "_prodversion": "Version of Chrome that is Used",	
+	"acceptformat": "crx2,crx3"
+}
