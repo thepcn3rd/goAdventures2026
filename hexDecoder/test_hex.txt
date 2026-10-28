@@ -1,0 +1,4 @@
+Hello %7d World %7c Test
+This is a %20 hex %20 decoder %7b example %7d
+Special chars: %21 %40 %23 %24 %25 %26 %2a
+URL encoded: %2f path%2f to%2f file
